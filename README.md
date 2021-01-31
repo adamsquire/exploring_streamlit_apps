@@ -1,8 +1,7 @@
 # Exploring Streamlit for machine learning applications
 
- # Exploring Streamlit for machine learning applications
- These file were used to test out building a [Streamlit](https://docs.streamlit.io/en/stable/index.html
-   ) application. For motivation and further details see my blog post [https://adamsramblings.xyz/blog/exploring-streamlit-for-machine-learning-apps/](https://adamsramblings.xyz/blog/exploring-streamlit-for-machine-learning-apps/)
+These file were used to test out building a [Streamlit](https://docs.streamlit.io/en/stable/index.html) application. 
+For motivation and further details see my blog post [https://adamsramblings.xyz/blog/exploring-streamlit-for-machine-learning-apps/](https://adamsramblings.xyz/blog/exploring-streamlit-for-machine-learning-apps/)
 
 | File                                    | Purpose                                                      |
 | --------------------------------------- | ------------------------------------------------------------ |
